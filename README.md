@@ -9,4 +9,8 @@ __Currently, it is offered jsSnipps for the following topics:__
 | __Topic__ | __Description__ |
 | ------ | ----------- |
 | *Object Oriented*  | Basic Object Oriented programming |
+| *Promises*		 | Promise: then, catch and finally flow|
+| *IIFE* | Immediatly Invoked Function Expression sintax | 
+
+
 
